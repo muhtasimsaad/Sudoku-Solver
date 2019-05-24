@@ -1,0 +1,128 @@
+﻿<Window x:Class="WpfApplication4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="893.074" Width="1066.231">
+    <Grid Margin="0,0,-8,7" Background="#FFE8DCBD">
+        <Border BorderBrush="Black" BorderThickness="0" HorizontalAlignment="Left" Height="201" Margin="0,362,0,0" VerticalAlignment="Top" Width="1066" Background="#FFFFC1C1"/>
+        <Border BorderBrush="Black" BorderThickness="0" HorizontalAlignment="Left" Margin="416,90,0,0" Width="238" Background="#FFB8E8F5"/>
+        <Border BorderBrush="Black" BorderThickness="0" HorizontalAlignment="Left" Height="201" Margin="416,362,0,0" VerticalAlignment="Top" Width="238" Background="#FF6A91B8"/>
+
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb00" Margin="188,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb10" Margin="188,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb20" Margin="188,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb01" Margin="259,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb11" Margin="259,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb21" Margin="259,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb02" Margin="330,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb12" Margin="330,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb22" Margin="330,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb30" Margin="188,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb40" Margin="188,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb50" Margin="188,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb31" Margin="259,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb41" Margin="259,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb51" Margin="259,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb32" Margin="330,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb42" Margin="330,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb52" Margin="330,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb03" Margin="433,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb13" Margin="433,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb23" Margin="433,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb04" Margin="504,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb14" Margin="504,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb24" Margin="504,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb05" Margin="575,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb15" Margin="575,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb25" Margin="575,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb33" Margin="433,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb43" Margin="433,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb53" Margin="433,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb34" Margin="504,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb44" Margin="504,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb54" Margin="504,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb35" Margin="575,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb45" Margin="575,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb55" Margin="575,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb06" Margin="678,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb16" Margin="678,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb26" Margin="678,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb07" Margin="749,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb17" Margin="749,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb27" Margin="749,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb08" Margin="820,183,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb18" Margin="820,241,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb28" Margin="820,299,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb36" Margin="678,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb46" Margin="678,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb56" Margin="678,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb37" Margin="749,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb47" Margin="749,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb57" Margin="749,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb38" Margin="820,379,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb48" Margin="820,437,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb58" Margin="820,495,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb60" Margin="188,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb70" Margin="188,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb80" Margin="188,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb61" Margin="259,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb71" Margin="259,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb81" Margin="259,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb62" Margin="330,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb72" Margin="330,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb82" Margin="330,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb63" Margin="433,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb73" Margin="433,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb83" Margin="433,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb64" Margin="504,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb74" Margin="504,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb84" Margin="504,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb65" Margin="575,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb75" Margin="575,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb85" Margin="575,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb66" Margin="678,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb76" Margin="678,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb86" Margin="678,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb67" Margin="749,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb77" Margin="749,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb87" Margin="749,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb68" Margin="820,579,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb78" Margin="820,637,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <TextBox HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" x:Name="comb88" Margin="820,695,0,0" VerticalAlignment="Top" Width="54" Height="46"  FontSize="25" FontWeight="Bold"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="0" HorizontalAlignment="Left" Margin="115,183,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="1" HorizontalAlignment="Left" Margin="115,241,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="2" HorizontalAlignment="Left" Margin="115,299,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="3" HorizontalAlignment="Left" Margin="115,379,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="4" HorizontalAlignment="Left" Margin="115,437,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="5" HorizontalAlignment="Left" Margin="115,495,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="6" HorizontalAlignment="Left" Margin="115,579,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="7" HorizontalAlignment="Left" Margin="115,637,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="8" HorizontalAlignment="Left" Margin="115,695,0,0" VerticalAlignment="Top" Height="46" Width="35" FontSize="25"/>
+        <Label Content="0" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="188,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25"/>
+        <Label Content="1" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="259,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25"/>
+        <Label Content="2" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="330,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25" RenderTransformOrigin="1.564,0.491"/>
+        <Label Content="3" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="433,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25"/>
+        <Label Content="4" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="504,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25"/>
+        <Label Content="5" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="575,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25" RenderTransformOrigin="1.564,0.491"/>
+        <Label Content="6" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="678,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25"/>
+        <Label Content="7" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="749,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25"/>
+        <Label Content="8" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="820,114,0,0" VerticalAlignment="Top" Height="46" Width="54" FontSize="25" RenderTransformOrigin="1.564,0.491"/>
+        <Button Content="Solve" HorizontalAlignment="Left" Height="52" Margin="814,771,0,0" VerticalAlignment="Top" Width="146" FontSize="30" Click="Button_Click_1"/>
+        <TextBlock HorizontalAlignment="Left" Name="blk" Height="81" Margin="72,763,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="731" FontSize="20"/>
+        <Label Content="Sudoku Solver" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Height="85" Width="1066" FontSize="45" FontWeight="Bold">
+            <Label.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF17F7F" Offset="0"/>
+                    <GradientStop Color="#FFE8DCBD" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Background>
+        </Label>
+
+    </Grid>
+</Window>
